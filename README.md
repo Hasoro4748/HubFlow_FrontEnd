@@ -119,8 +119,8 @@ HubFlow 프로젝트에 대해 궁금한 점이 있으시면 언제든지 연락
 ---
 
 ## 시현 영상
-[https://youtu.be/bdmHMJxx5KU?si=fmNsxOmluHeiDqsv](https://youtu.be/bdmHMJxx5KU)
-[![Video Label](http://img.youtube.com/vi/bdmHMJxx5KU/0.jpg)](https://youtu.be/bdmHMJxx5KU)]
+https://youtu.be/sa1ncKJ02s4?si=9QmOe30f1lRxL0ka
+[![Video Label](http://img.youtu.be/sa1ncKJ02s4?si=9QmOe30f1lRxL0ka/0.jpg)](https://youtu.be/sa1ncKJ02s4?si=9QmOe30f1lRxL0ka)]
 
 
 ---
