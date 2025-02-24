@@ -1,7 +1,7 @@
 
 # HubFlow 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=LotteOn&fontSize=70&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=HUBFLOW&fontSize=70&fontAlign=50)
 
 ---
 
