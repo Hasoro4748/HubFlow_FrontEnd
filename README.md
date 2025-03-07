@@ -93,7 +93,7 @@
 1. **로컬 개발 환경 설정**
    - Git 리포지토리 클론:
      ```bash
-     git clone https://github.com/your-repo/farmstory.git
+     git clone https://github.com/Hasoro4748/HubFlow_FrontEnd.git
      ```
    - 데이터베이스(MySQL) 설정
    - Spring Boot 및 프론트엔드 환경 구성
@@ -105,7 +105,7 @@
 
 ## 🤝 기여하기
 
-Farmstory 프로젝트에 기여하고 싶으신 분은 다음 단계를 따라주세요:
+HubFlow 프로젝트에 기여하고 싶으신 분은 다음 단계를 따라주세요:
 1. 리포지토리 포크하기
 2. 새로운 기능 추가 또는 버그 수정
 3. Pull Request 제출
